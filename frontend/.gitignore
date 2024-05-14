@@ -1,0 +1,7 @@
+# Gitingore for expo react app
+**.DS_Store
+node_modules
+npm-debug.log
+yarn-error.log
+.expo
+package-lock.json
